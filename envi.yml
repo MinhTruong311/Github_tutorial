@@ -1,0 +1,8 @@
+name: envi
+channels: 
+  - defaults
+dependencies: 
+  - python
+  - numpy
+  - matplotlib
+  - opencv
